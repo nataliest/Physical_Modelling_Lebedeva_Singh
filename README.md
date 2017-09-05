@@ -11,6 +11,8 @@ and string length. Each instrument also has specific zeroes and poles that corre
 Fourier transform of its PDE which also has to do with the sound that is produced. Together, the
 parameters and the poles of the PDE help create the unique sound of the instrument.
 
+<img src = "pde.jpg" alt = "pde equations" >
+
 The purpose of this research is to develop a way to traverse the dimensions of sound, and
 assimilate to higher dimensions of sound that cannot be physically produced. The implementation
 of these equations will be done in real-time, using Python. In order to carry out the implementation,
